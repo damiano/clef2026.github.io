@@ -367,9 +367,9 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at Friedrich-S
     <td colspan="6">Coffee Break</td>
 </tr>
 <tr class="labs">
-    <td>14:00</td>
+    <td>11:00</td>
     <td>&ndash;</td>
-    <td>15:30</td>
+    <td>12:30</td>
     <td>ImageCLEF<br>4/5</td>
     <td>PAN<br>3/4</td>
     <td>CheckThat!<br>2/3</td>

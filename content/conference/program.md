@@ -99,11 +99,11 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at Friedrich-S
 <tr class="main-conf">
     <td>11:00</td>
     <td>&ndash;</td>
-    <td>11:40</td>
+    <td>11:30</td>
     <td colspan="6">Main Conference 1 (Low-Resource Languages)<br><span class="room">Lecture Room 3</span></td>
 </tr>
 <tr class="labs">
-    <td>11:40</td>
+    <td>11:30</td>
     <td>&ndash;</td>
     <td>12:30</td>
     <td colspan="6">Lab Overviews 1 (SimpleText, LifeCLEF, EXIST, qCLEF, Touché, FinMMEval)<br><span class="room">Lecture Room 3</span></td>
@@ -190,14 +190,20 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at Friedrich-S
 <tr class="main-conf">
     <td>10:30</td>
     <td>&ndash;</td>
-    <td>11:40</td>
+    <td>11:15</td>
     <td colspan="6">Main Conference 2 (Bias, Fairness, Evidence)<br><span class="room">Lecture Room 3</span></td>
 </tr>
 <tr class="labs">
-    <td>11:40</td>
+    <td>11:15</td>
+    <td>&ndash;</td>
+    <td>12:05</td>
+    <td colspan="6">Lab Overviews 2 (ImageCLEF, HIPE, TalentCLEF, BIoASQ, ELOQUENT)<br><span class="room">Lecture Room 3</span></td>
+</tr>
+<tr class="labs">
+    <td>12:05</td>
     <td>&ndash;</td>
     <td>12:30</td>
-    <td colspan="6">Lab Overviews 2 (ImageCLEF, HIPE, TalentCLEF, BIoASQ, ELOQUENT)<br><span class="room">Lecture Room 3</span></td>
+    <td colspan="6">Best of Labs, 2025 (GutBrainIE, SimpleText, Touché)<br><span class="room">Lecture Room 3</span></td>
 </tr>
 <tr class="break">
     <td>12:30</td>
@@ -245,6 +251,15 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at Friedrich-S
 3. *A Controlled Study of Evidence Quality in LLM-Based Numerical Claim Verification*<br>
   Quy Thanh Le, Ismail Badache and Maamar El Amine Hamri
 
+
+**Papers in Best of Labs, 2025 (GutBrainIE, SimpleText, Touché)**
+1. *Trusting Gut Instincts: A Fine-Grained Error Analysis of Transformer-Based Structured Data Extraction from Gut-Brain Axis Publications*<br>
+   Lasse Ryge Andersen, Mikkel Hagerup Dolmer, Marius Ihlen Gardshodn, Juan Manuel Rodriguez and Daniele Dell'Aglio
+2. *Lexical Simplification for Scientific Texts: Revisiting SARI in the Era of Modern LLMs*<br>
+   Nico Hofmann, Julian Dauenhauer, Nils Ole Dietzler, Idehen Daniel Idahor and Christin Katharina Kreutz
+3. *DS@GT ARC at Touché: Large Language Models for Retrieval-Augmented Debate*<br>
+  Anthony Miyaguchi and Conor Johnston
+
 [//]: # (======================================================================================================================)
 [//]: # (Wednesday)
 
@@ -276,14 +291,20 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at Friedrich-S
 <tr class="main-conf">
     <td>10:30</td>
     <td>&ndash;</td>
-    <td>11:40</td>
+    <td>11:15</td>
     <td colspan="6">Main Conference 3 (Evaluation and Benchmarks)<br><span class="room">Lecture Room 3</span></td>
 </tr>
 <tr class="labs">
-    <td>11:40</td>
+    <td>11:15</td>
+    <td>&ndash;</td>
+    <td>12:05</td>
+    <td colspan="6">Lab Overviews 3 (PAN, LongEval, eRisk, CheckThat!, JOKER)<br><span class="room">Lecture Room 3</span></td>
+</tr>
+<tr class="labs">
+    <td>12:05</td>
     <td>&ndash;</td>
     <td>12:30</td>
-    <td colspan="6">Lab Overviews 3 (PAN, LongEval, eRisk, CheckThat!, JOKER)<br><span class="room">Lecture Room 3</span></td>
+    <td colspan="6">Best of Labs, 2025 (CheckThat!, LongEval, JOKER)<br><span class="room">Lecture Room 3</span></td>
 </tr>
 <tr class="break">
     <td>12:30</td>
@@ -337,6 +358,13 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at Friedrich-S
 3. *Generative AI-based Uncertainty-aware IR Evaluation with Distributional Evaluation*<br>
   Giorgio Maria Di Nunzio, Guglielmo Faggioli, Stefano Marchesin and Simone Merlo
 
+**Papers in Best of Labs, 2025 (CheckThat!, LongEval, JOKER)**
+1. *Scientific Claim–Source Retrieval Revisited: A Comparative Study of Style Transfer and Re-Ranking*<br>
+   Tobias Schreieder, Harsh Khandelwal, Yu-Ling Zhong and Michael Färber
+2. *DS@GT ARC at LongEval: Evaluating Temporal Performance in Web Search Systems and Topics with Two-Stage Retrieval*
+   Anthony Miyaguchi, Imran Afrulbasha and Aleksandar Pramov
+3. *Pun Intended: Multi-Agent Translation of Wordplay with Contrastive Learning and Phonetic-Semantic Embeddings*<br>
+    Russell Taylor, Benajmin Herbert and Michael Sana
 
 [//]: # (======================================================================================================================)
 [//]: # (Thursday)
@@ -355,7 +383,7 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at Friedrich-S
 </thead>
 <tbody>
 <tr class="main-conf">
-    <td>09:00</td>
+    <td>09:30</td>
     <td>&ndash;</td>
     <td>10:30</td>
     <td colspan="6">Main Conference 4 (Information Retrieval)<br><span class="room">Lecture Room 3</span></td>

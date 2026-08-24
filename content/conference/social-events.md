@@ -57,3 +57,7 @@ Recommended attractions include:
 - [**Schiller's Garden House**](https://www.visit-jena.de/kunst-kultur-und-kulinarik/museen/schillers-gartenhaus/): A historical site where the German poet Friedrich Schiller lived.
 - [**Paradies**](https://www.visit-jena.de/aktiv-und-natur/gaerten-und-parks/jena-paradies-volkspark-oberaue/): The green oasis in the heart of the city center, located directly on the Saale River, is a perfect place for sports, play, and relaxation.
 - [**Kernberge**](https://www.visit-jena.de/aktiv-und-natur/trailrunningwege-in-den-kernbergen/): The light-colored shell limestone cliffs of the Kernberge are only a short trip from the city and offer beautiful hiking and trailrunning opportunities.
+- [**Live Musician Rudi**](https://www.jena-veranstaltungen.de/event/live-rudi-tuesday): On Tuesday (22.09) at 19:00 at "Fiddlers Green" Irish Pub (Bachstraße 39, 07743 Jena), no entry fee
+- [**Napoleon Path**](https://www.natura-jenensis.de/aktiv/details/napoleonpfad): 8km, about 2 hours, to get there take the bus line 16 to bus stop Cospeda
+- [**Path of the Ottonians**](https://www.natura-jenensis.de/aktiv/details/pfad-der-ottonen): 3.9 km, about 1 hour 20 min
+- [**Seven Wonders of Jena**](https://sieben-wunder-von-jena.de/): visit the Seven Wonders of Jena

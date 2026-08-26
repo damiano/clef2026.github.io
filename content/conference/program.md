@@ -355,7 +355,7 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at Friedrich-S
   Ferdinand Schlatt, Rayk Kretzschmar and Matthias Hagen
 2. *KangarooBench: A Native German Benchmark for Evaluating the Modality Gap in Visual Mathematics*<br>
   Dennis Hug, René Wolf and Philippe Thomas
-3. *Generative AI-based Uncertainty-aware IR Evaluation with Distributional Evaluation*<br>
+3. *ReTARgeting CLEF eHealth: From Historical TAR Benchmarks to Reusable Evaluation Resources*<br>
   Giorgio Maria Di Nunzio, Guglielmo Faggioli, Stefano Marchesin and Simone Merlo
 
 **Papers in Best of Labs, 2025 (CheckThat!, LongEval, JOKER)**
@@ -423,7 +423,6 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at Friedrich-S
     <td></td>
 </tr>
 <tr class="break">
-    <td>15:30</td>
     <td>&ndash;</td>
     <td>16:00</td>
     <td colspan="6">Coffee Break</td>

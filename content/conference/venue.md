@@ -19,6 +19,11 @@ More information will follow shortly.
 
 ### Address
 
+Friedrich-Schiller-Universität Jena \
+Campus Ernst-Abbe-Platz \
+Carl-Zeiss-Straße 3 \
+07743 Jena
+
 {{< map lat="50.928618" lng="11.581971" name="Friedrich-Schiller-Universität Jena <br>Campus Ernst-Abbe-Platz <br>Carl-Zeiss-Straße 3, 07743 Jena" zoom="14.9" >}}
 
 <div class="flex flex-wrap gap-2 content-evenly justify-items-center items-top">

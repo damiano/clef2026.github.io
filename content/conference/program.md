@@ -11,7 +11,7 @@ menu:
     weight: 60
 ---
 
-The CLEF 2026 conference will be held from September 21-24, 2026, at Friedrich-Schiller-Universität Jena, Germany. The program includes keynote speeches, paper presentations, lab sessions, poster presentations, and social events.
+The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-Schiller-Universität Jena, Germany](/conference/venue). The program includes keynote speeches, paper presentations, lab sessions, poster presentations, and social events.
 
 ## Monday, 21 September 2026
 

@@ -35,11 +35,11 @@ Together, these hypotheses point toward a new kind of evaluation environment: on
 
 ## Lucie Flek
 
-**Title:** TBD.
+**Title:** Is There a Person in Personalization? Validating LLM User Representations Across Context.
 
 **Date:** Tuesday, September 22
 
-**Abstract:** TBD.
+**Abstract:** As LLMs become interfaces to information, user representations may shape not only how information is presented, but also what is retrieved, recommended, emphasized, or omitted. Yet it remains surprisingly unclear what exactly is being represented when a model appears to personalize. In this talk, I bring together perspectives from natural language processing and psychology to ask what it would take to validate a user representation. When is disagreement noise, and when is it the phenomenon of interest? How can we distinguish meaningful personal differences from situational variation? And when does a convincing personalized response tell us something about the person rather than merely about the model? What does reliability tell us—and what does it leave open? These questions become central as personalized models mediate information access and act on behalf of users. Drawing on research in personalization, perspective-taking, empathy, and human simulation, I will discuss the conceptual and methodological challenges involved in answering these questions, and their implications for evaluating personalized and conversational information-access systems.
 
 {{< figure src="img/clef26-speakers-flek.jpg" size="400x500" float="right" classes="w-64 pl-8" width="sm"  caption="Lucie Flek" >}}
 

@@ -88,7 +88,7 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>09:30</td>
     <td>&ndash;</td>
     <td>10:30</td>
-    <td colspan="6">Keynote: Michael Granitzer<br><span class="room">Lecture Room 3</span></td>
+    <td colspan="6">Keynote: Lucie Flek<br><span class="room">Lecture Room 3</span></td>
 </tr>
 <tr class="break">
     <td>10:30</td>
@@ -179,7 +179,7 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>09:00</td>
     <td>&ndash;</td>
     <td>10:00</td>
-    <td colspan="6">Keynote: Lucie Flek<br><span class="room">Lecture Room 3</span></td>
+    <td colspan="6">Keynote: Michael Granitzer<br><span class="room">Lecture Room 3</span></td>
 </tr>
 <tr class="break">
     <td>10:00</td>

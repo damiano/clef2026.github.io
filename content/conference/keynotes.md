@@ -11,11 +11,24 @@ menu:
     weight: 50
 ---
 
+## Lucie Flek
+
+**Title:** Is There a Person in Personalization? Validating LLM User Representations Across Context.
+
+**Date:** Monday, September 21
+
+**Abstract:** As LLMs become interfaces to information, user representations may shape not only how information is presented, but also what is retrieved, recommended, emphasized, or omitted. Yet it remains surprisingly unclear what exactly is being represented when a model appears to personalize. In this talk, I bring together perspectives from natural language processing and psychology to ask what it would take to validate a user representation. When is disagreement noise, and when is it the phenomenon of interest? How can we distinguish meaningful personal differences from situational variation? And when does a convincing personalized response tell us something about the person rather than merely about the model? What does reliability tell us—and what does it leave open? These questions become central as personalized models mediate information access and act on behalf of users. Drawing on research in personalization, perspective-taking, empathy, and human simulation, I will discuss the conceptual and methodological challenges involved in answering these questions, and their implications for evaluating personalized and conversational information-access systems.
+
+{{< figure src="img/clef26-speakers-flek.jpg" size="400x500" float="right" classes="w-64 pl-8" width="sm"  caption="Lucie Flek" >}}
+
+**About:** Lucie Flek is a professor for Data Science & Language Technologies at The University of Bonn. Her research focuses on machine learning for Natural Language Processing, with core expertise in user modeling and stylistic variation. She investigates how individuals and sociodemographic groups differ in their language use, and how this variation can be leveraged to predict in-group behavior. This work has led to a broader engagement with bias in NLP, stereotype exaggeration, ethics, model performance on underrepresented groups, and domain adaptation. Her PhD addressed lexical semantics — specifically, the role of word ambiguity and context in document classification, and whether explicit disambiguation and semantic ontologies remain beneficial in the era of deep learning, particularly under limited training data. She has continued pursuing the low-resource paradigm in industry, leading projects in multilingual and multitask learning and various bootstrapping approaches for scarce labeled data. A strong advocate for cross-disciplinary collaboration, she has published jointly with educational researchers, psychologists, sociologists, physicists, and visual analysts.
+
+
 ## Michael Granitzer
 
 **Title:** Beyond Open Models: Building Open Search Infrastructure for AI Agents
 
-**Date:**  Monday, September 21
+**Date:**  Tuesday, September 22
 
 **Abstract:** Open-source language models are becoming increasingly capable and accessible. Yet an open model does not by itself create an open information-access system. When models and agents depend on proprietary search services, researchers cannot inspect or modify the underlying corpus, indexing process, retrieval system, or usage data. This talk therefore advances four hypotheses about the infrastructure required for transparent research on future search systems.
 
@@ -33,17 +46,7 @@ Together, these hypotheses point toward a new kind of evaluation environment: on
 
 **About:** Michael Granitzer is a renowned researcher in data science, machine learning, information retrieval, and natural language processing. As a Professor of Data Science at the University of Passau, his research focuses on intelligent systems for data analysis and utilization, with significant contributions to personalized information retrieval, visual analytics, and user behavior analysis. With over 250 scientific publications, including books, book chapters, and journal articles, Michael Granitzer is widely recognized for his contributions to the field. He also leads major research projects, such as the Horizon Europe project “OpenWebSearch.eu.” His previous roles, including Scientific Director at the Know-Center in Graz and Professor of Media Informatics, demonstrate his expertise in interdisciplinary collaboration and leading large-scale research projects.
 
-## Lucie Flek
 
-**Title:** Is There a Person in Personalization? Validating LLM User Representations Across Context.
-
-**Date:** Tuesday, September 22
-
-**Abstract:** As LLMs become interfaces to information, user representations may shape not only how information is presented, but also what is retrieved, recommended, emphasized, or omitted. Yet it remains surprisingly unclear what exactly is being represented when a model appears to personalize. In this talk, I bring together perspectives from natural language processing and psychology to ask what it would take to validate a user representation. When is disagreement noise, and when is it the phenomenon of interest? How can we distinguish meaningful personal differences from situational variation? And when does a convincing personalized response tell us something about the person rather than merely about the model? What does reliability tell us—and what does it leave open? These questions become central as personalized models mediate information access and act on behalf of users. Drawing on research in personalization, perspective-taking, empathy, and human simulation, I will discuss the conceptual and methodological challenges involved in answering these questions, and their implications for evaluating personalized and conversational information-access systems.
-
-{{< figure src="img/clef26-speakers-flek.jpg" size="400x500" float="right" classes="w-64 pl-8" width="sm"  caption="Lucie Flek" >}}
-
-**About:** Lucie Flek is a professor for Data Science & Language Technologies at The University of Bonn. Her research focuses on machine learning for Natural Language Processing, with core expertise in user modeling and stylistic variation. She investigates how individuals and sociodemographic groups differ in their language use, and how this variation can be leveraged to predict in-group behavior. This work has led to a broader engagement with bias in NLP, stereotype exaggeration, ethics, model performance on underrepresented groups, and domain adaptation. Her PhD addressed lexical semantics — specifically, the role of word ambiguity and context in document classification, and whether explicit disambiguation and semantic ontologies remain beneficial in the era of deep learning, particularly under limited training data. She has continued pursuing the low-resource paradigm in industry, leading projects in multilingual and multitask learning and various bootstrapping approaches for scarce labeled data. A strong advocate for cross-disciplinary collaboration, she has published jointly with educational researchers, psychologists, sociologists, physicists, and visual analysts.
 
 ## Suzan Verberne
 

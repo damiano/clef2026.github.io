@@ -13,8 +13,8 @@ menu:
 
 CLEF 2026 features multiple kinds of submissions:
 - **Conference Papers**, peer-reviewed articles published in the Springer Lecture Notes in Computer Science (LNCS) series.
-- **Lab Working Notes**, peer-reviewed reports describing the experiments carried out during the CLEF evaluation campaigns, published in digital form in the CEUR-WS Proceedings.
-- **Task Overview Papers**, submitted by task organizers describing data, teams, and results of their task, published in digital form in the CEUR-WS Proceedings.
+- **Lab Working Notes**, peer-reviewed reports describing the experiments carried out during the CLEF evaluation campaigns, for consideration for publication in the CEUR-WS Proceedings.
+- **Task Overview Papers**, submitted by task organizers describing data, teams, and results of their task, for consideration for publication in the CEUR-WS Proceedings.
 - **Condensed Lab Overviews**, condensed lab/workshop overviews submitted by lab organizers describing the lab/workshop as a whole, published in the Springer LNCS series.
 
 CLEF 2026 uses EasyChair for all submission types. 
@@ -100,7 +100,7 @@ Lab working notes are subject to the [CEUR-WS GenAI policy](https://ceur-ws.org/
 
 ## Task Overview Papers
 
-For each lab/workshop at CLEF 2026, organizers must submit an **extended overview** for the CEUR-WS Working Notes, describing the lab/workshop, the data used, the teams that participated and their approaches, the results obtained, and the analysis of those results. Organizers may submit either a single overview covering the entire lab, or separate overviews for each task within the lab where greater detail is helpful.
+For each lab/workshop at CLEF 2026, organizers must submit an **extended overview** for consideration for publication in the CEUR-WS Working Notes, describing the lab/workshop, the data used, the teams that participated and their approaches, the results obtained, and the analysis of those results. Organizers may submit either a single overview covering the entire lab, or separate overviews for each task within the lab where greater detail is helpful.
 
 The extended overview must include a section briefly summarizing each participant's approach and main findings, with explicit references to their papers.
 

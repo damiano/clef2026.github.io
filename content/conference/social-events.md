@@ -40,7 +40,7 @@ This informal gathering provides an excellent opportunity to network with fellow
 The conference dinner, during which the best paper awards are presented, will take place at the Planetarium Jena, the oldest operating planetarium in the world. 
 
 - **Date**: Wednesday, September 23, 2026  
-- **Time**: 19:00 - 22:30  
+- **Time**: 18:15 - 22:30  
 - **Location**: Planetarium / Restaurant Bauersfeld, Am Planetarium 5, DE-07743 Jena
 
 {{< figure src="https://planetarium-jena.de/wp-content/uploads/2017/07/mondscheindinner_03-768x512.jpg" class="rounded-lg w-32 shadow-md" alt="Zeiss Planetarium Jena" attribution="© planetarium-jena.de [➚](https://planetarium-jena.de)" >}}
